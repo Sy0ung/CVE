@@ -1,1 +1,1 @@
-# Jinher OA System by JinherNetwork
+# Jinher collaborative management platform by JinherNetwork
