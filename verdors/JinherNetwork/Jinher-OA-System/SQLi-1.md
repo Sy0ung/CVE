@@ -1,4 +1,4 @@
-# Jinher OA System by JinherNetwork has SQL injection
+# Jinher collaborative management platform by JinherNetwork has SQL injection
 
 BUG_Author: 孙一航 广州大学，樊琦 广州大学，孙彦斌 广州大学
 
